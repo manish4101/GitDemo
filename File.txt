@@ -3,6 +3,9 @@ login feature updated
 
 change -> For bug1 enchancement in login feature
 change -> For bug2 fix 
+change -> for bug1 enchancement in login feature
+change -> for bug2 fix 
+ Enhancement1: file updated for change 1 in login feature and rebase verification
 
 change 1 for bug1
 change 2 fix bug 2
@@ -10,6 +13,9 @@ change 2 fix bug 2
 change 3 -> fix bug2
 change 4-> WI4 by teammate
 
+
 change 5-> enhancement 1 change to test rebase
 
 change 6-> added caps in each line first letter and change for cr1 by teammate to test rebase
+change 5-> enhancement 1 change to test rebase
+Enhancement1: file updated for change 1 in login feature and rebase verification
