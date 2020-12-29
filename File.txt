@@ -1,4 +1,11 @@
 Hello World
 login feature updated
+
 change -> for bug1
 change -> for bug2 fix 
+
+change 1 for bug1
+change 2 fix bug 2
+
+change 3 -> fix bug2
+change 4-> WI4 by teammate
